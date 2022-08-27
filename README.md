@@ -2,7 +2,7 @@
 
 This repository contains the following files:<br>
 1. Drop Script for Tables<br>
-	Includes drop scripts for Table, functions, constraints, procedures<br>
+<emsp> Includes drop scripts for Table, functions, constraints, procedures<br>
 
 2. Creation Of Tables for Database<br>
 	Includes create scripts for 16 Tables<br><br>
