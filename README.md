@@ -2,7 +2,7 @@
 
 This repository contains the following files:<br>
 1. Drop Script for Tables<br>
-	Includes drop scripts for Table, functions, constraints, procedures<br><br>
+	Includes drop scripts for Table, functions, constraints, procedures<br>
 
 2. Creation Of Tables for Database<br>
 	Includes create scripts for 16 Tables<br><br>
@@ -10,7 +10,7 @@ This repository contains the following files:<br>
 3. Insertion of data in Tables<br>
 	Includes Insert scripts<br><br>
 
-4. Column Computation & Table level Constraint Check
+4. Column Computation & Table level Constraint Check<br>
 	i. Column Based Computation<br>
       		Calculate credit status based on customers credit score<br>
 	ii. Table level check constraint based on a function<br>
