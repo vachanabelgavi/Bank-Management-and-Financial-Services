@@ -11,7 +11,7 @@ This repository contains the following files:
 	Includes Insert scripts
 
 4. Column Computation & Table level Constraint Check
-	a. Column Based Computation
+	a. Column Based Computation<br>
       		Calculate credit status based on customers credit score
 	b. Table level check constraint based on a function
 		To not allow a person with the same name and ssn to register again
